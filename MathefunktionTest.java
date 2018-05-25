@@ -8,8 +8,8 @@ import org.junit.Test;
 /**
  * Die Test-Klasse MathefunktionTest.
  *
- * @author  (Ihr Name)
- * @version (eine Versionsnummer oder ein Datum)
+ * @author Roland Daidone, Michael Linn
+ * @version 1.0
  */
 public class MathefunktionTest
 {

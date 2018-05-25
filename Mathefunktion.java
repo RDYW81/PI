@@ -3,7 +3,7 @@ import java.util.function.IntPredicate;
  * Beschreiben Sie hier die Klasse Mathefunktion.
  * 
  * @author Roland Daidone, Michael Linn
- * @version 1.0
+ * @version 1.1.0
  */
 public class Mathefunktion {  
 

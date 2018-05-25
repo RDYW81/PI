@@ -2,8 +2,8 @@
 /**
  * Tragen Sie hier eine Beschreibung des Interface Fakultaet ein.
  * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
+ * @author Roland Daidone, Michael Linn
+ * @version 1.0
  */
 
 public interface Fakultaet
